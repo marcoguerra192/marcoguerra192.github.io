@@ -21,7 +21,7 @@ repository               : "marcoguerra192/marcoguerra192.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ProfilePicCompressed.jpg"
   name             : "Marco Guerra"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc, Institut Fourier"
