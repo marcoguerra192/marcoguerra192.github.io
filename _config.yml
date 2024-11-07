@@ -28,7 +28,7 @@ author:
   location         : "Grenoble, FR"
   employer         : #"Institut Fourier"
   uri              : # URL
-  email            : "marco.guerra@univ-grenoble-alpes.fr" 
+  email            : #"marco.guerra@univ-grenoble-alpes.fr" 
 
   # Academic websites
   arxiv            : "http://arxiv.org/a/guerra_m_1"
