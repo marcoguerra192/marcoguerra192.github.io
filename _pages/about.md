@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About
+
 Personal page of Marco Guerra
+
+**Contact** marco.guerra@univ-grenoble-alpes.fr
 
