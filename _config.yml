@@ -22,11 +22,11 @@ repository               : "marcoguerra192/marcoguerra192.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Marco Guerra"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc"
-  location         : "Grenoble"
-  employer         : "Institut Fourier"
+  bio              : "Postdoc, Institut Fourier"
+  location         : "Grenoble, FR"
+  employer         : #"Institut Fourier"
   uri              : # URL
   email            : "marco.guerra@univ-grenoble-alpes.fr" 
 
