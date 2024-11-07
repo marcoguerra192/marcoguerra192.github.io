@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Here is my [CV](https:marcoguerra192.github.io/files/CVMarcoGuerra.pdf) (last updated Oct '24)
+Here is my [CV](https://marcoguerra192.github.io/files/CVMarcoGuerra.pdf) (last updated Oct '24)
