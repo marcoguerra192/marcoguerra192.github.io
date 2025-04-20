@@ -16,4 +16,5 @@ I obtained my PhD from Politecnico di Torino in 2022, under the supervision of [
 **Contact** marco.guerra@ge.imati.cnr.it <br>
 *Inactive* ~~marco.guerra@univ-grenoble-alpes.fr~~ <br>
 *Inactive* ~~marco.guerra@polito.it~~
+**Failsafe** marco.guerra192@gmail.com
 
