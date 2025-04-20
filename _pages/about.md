@@ -13,9 +13,7 @@ I work in Topological Data Analysis, both towards the theory and the application
 
 I obtained my PhD from Politecnico di Torino in 2022, under the supervision of [Francesco Vaccarino](https://scholar.google.com/citations?user=4XfzoZQAAAAJ&hl=en) and [Giovanni Petri](https://lordgrilo.github.io/). In 2024, I was a postdoc fellow at the [Institut Fourier](https://www-fourier.ujf-grenoble.fr/) of [UGA](https://www.univ-grenoble-alpes.fr/) in Grenoble, working with [Rémi Molinier](https://www-fourier.ujf-grenoble.fr/~molinier/).
 
-**Contact** <br>
-marco.guerra@ge.imati.cnr.it <br>
-*No longer active*
-~~marco.guerra@univ-grenoble-alpes.fr~~ <br>
-~~marco.guerra@polito.it~~
+**Contact** marco.guerra@ge.imati.cnr.it <br>
+*Inactive* ~~marco.guerra@univ-grenoble-alpes.fr~~ <br>
+*Inactive* ~~marco.guerra@polito.it~~
 
