@@ -9,10 +9,10 @@ author_profile: true
 
 ### Under review
 * **Shrec 2025: Protein Surface Shape Retrieval Including Electrostatic Potentials** (2025) [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258950) \
-Guerra M., Fugacci U., Biasotti S. et al. \
+Guerra M., Fugacci U., Biasotti S. et al.
 
 ### Journal
-* **Parallel computation of interval bases for persistence module decomposition** (2025) [arXiv](https://arxiv.org/abs/2106.11884) [DOI?]() \
+* **Parallel computation of interval bases for persistence module decomposition** (2025) [arXiv](https://arxiv.org/abs/2106.11884) [DOI?](none) \
 De Gregorio A., Guerra M., Scaramuccia S., Vaccarino F. \
 Appl. Algebra Eng. Commun. Comput.
 
@@ -23,7 +23,11 @@ ICML 2024
 Guerra M., De Gregorio A., Fugacci U., Petri G., Vaccarino F. \
 SciRep
 
-### Proceedings
+### Proceedings, abstracts, etc
+* **Retrieving biparameter persistence modules from monoparameter ones: a characterization of hook-decomposable persistence modules** (2025) [arXiv](https://arxiv.org/abs/2506.14678) \
+Mastroianni I., Guerra M., Fugacci U., De Negri E.
+
+
 * **An improved TDA-based algorithm for the isomorphism problem of orthogonal arrays** (2025) \
 Fontana R., Guerra M.\
 IES 2025 Statistical Methods for Evaluation and Quality
