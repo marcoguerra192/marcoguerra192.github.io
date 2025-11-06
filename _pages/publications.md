@@ -27,6 +27,9 @@ SciRep
 * **Retrieving biparameter persistence modules from monoparameter ones: a characterization of hook-decomposable persistence modules** (2025) [arXiv](https://arxiv.org/abs/2506.14678) \
 Mastroianni I., Guerra M., Fugacci U., De Negri E.
 
+* **A topology-based algorithm for the isomorphism check of 2-level Orthogonal Arrays** (2024) [arXiv](https://arxiv.org/abs/2409.20077) [DOI](https://link.springer.com/book/9783031643453)\
+Fontana R., Guerra M.\
+SIS 2024
 
 * **An improved TDA-based algorithm for the isomorphism problem of orthogonal arrays** (2025) \
 Fontana R., Guerra M.\
@@ -37,8 +40,5 @@ Barbarani G., Vaccarino F., Trivigno G., Guerra M., Berton G., Masone C.\
 ICML 2024 Workshop on Differentiable Almost Everything: Differentiable Relaxations, \
 Algorithms, Operators, and Simulators. Vienna
 
-* **A topology-based algorithm for the isomorphism check of 2-level Orthogonal Arrays** (2024) [arXiv](https://arxiv.org/abs/2409.20077) [DOI](https://link.springer.com/book/9783031643453)\
-Fontana R., Guerra M.\
-SIS 2024
 
 
