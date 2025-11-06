@@ -7,12 +7,12 @@ author_profile: true
 
 ## Papers
 
-### Under review
-* **Shrec 2025: Protein Surface Shape Retrieval Including Electrostatic Potentials** (2025) [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258950) \
-Guerra M., Fugacci U., Biasotti S. et al.
-
 ### Journal
-* **Parallel computation of interval bases for persistence module decomposition** (2025) [arXiv](https://arxiv.org/abs/2106.11884) [DOI?](none) \
+* **Shrec 2025: Protein Surface Shape Retrieval Including Electrostatic Potentials** (2025) [DOI](https://doi.org/10.1016/j.cag.2025.104394) \
+Al. et Guerra M., Fugacci U., Biasotti S. \
+Computers and Graphics, 132
+
+* **Parallel computation of interval bases for persistence module decomposition** (2025) [arXiv](https://arxiv.org/abs/2106.11884) [DOI](https://doi.org/10.1007/s00200-025-00699-1) \
 De Gregorio A., Guerra M., Scaramuccia S., Vaccarino F. \
 Appl. Algebra Eng. Commun. Comput.
 
